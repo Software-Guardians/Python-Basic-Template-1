@@ -124,4 +124,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ⭐ Bu repository'yi faydalı bulduysanız star vermeyi unutmayın!
 
 **Yazar:** [Emrullah Enis Çetinkaya](https://github.com/emrullah-enis-ctnky)  
-**İletişim:** [eniscetinkaya951@gmail.com]
+**İletişim:** eniscetinkaya951@gmail.com
